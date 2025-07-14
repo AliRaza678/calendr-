@@ -1,2 +1,2 @@
 # calendr-
-calendr with html css javascript https://calendr.surge.sh/
+This calendar has been created using HTML, CSS, and JavaScript. https://calendr.surge.sh/
