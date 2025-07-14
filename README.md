@@ -1,2 +1,2 @@
 # calendr-
-calendr with html css jaavscript https://calendr.surge.sh/
+calendr with html css javascript https://calendr.surge.sh/
